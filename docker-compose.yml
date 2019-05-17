@@ -4,3 +4,4 @@ services:
     image: "jupyter/minimal-notebook"
     ports:
      - "9000:8888"
+     
